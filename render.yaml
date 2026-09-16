@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: gowtham-historical-seo-portfolio
+    runtime: node
+    plan: free
+    buildCommand: npm install && npx prisma generate && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: AUTH_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: gowtham-portfolio-db
+          property: connectionString
+databases:
+  - name: gowtham-portfolio-db
+    plan: free

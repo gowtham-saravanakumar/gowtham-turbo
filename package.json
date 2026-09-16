@@ -1,0 +1,39 @@
+{
+  "name": "gowtham-historical-seo-portfolio",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "prisma generate && vite build",
+    "preview": "vite preview",
+    "start": "node server/index.js",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:seed": "node prisma/seed.js"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.7.0",
+    "@react-three/postprocessing": "^3.1.1",
+    "gsap": "^3.15.0",
+    "@prisma/client": "^6.16.2",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "zod": "^3.25.76",
+    "postprocessing": "^6.39.4",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "prisma": "^6.16.2",
+    "vite": "^8.3.0"
+  }
+}

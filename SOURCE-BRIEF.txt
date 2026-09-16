@@ -1,0 +1,1014 @@
+Create an extreme, cinematic 3D portfolio website for a **Game Developer + Full Stack Developer**.
+
+The website should NOT feel like a normal portfolio.
+
+Build it as a **AAA sci-fi cinematic game experience** where the visitor travels through space, controls a cinematic camera, explores futuristic environments, and discovers the developer's portfolio through an interactive story.
+
+## CORE CREATIVE DIRECTION
+
+Combine:
+
+**Cinematic Sci-Fi Movie**
++
+**AAA Sci-Fi Gaming**
++
+**Spaceship Combat**
++
+**Advanced WebGL 3D**
++
+**Deep Parallax**
++
+**Interactive Camera**
++
+**Futuristic HUD**
++
+**Cinematic Storytelling**
++
+**Premium UI/UX**
+
+Create an original sci-fi universe.
+
+Do NOT copy Star Wars, Star Citizen, Halo, Mass Effect, Destiny, Cyberpunk, or any other copyrighted game/movie directly.
+
+Use them only as broad inspiration for cinematic scale, atmosphere, and futuristic gameplay.
+
+The portfolio should feel like:
+
+**"A playable sci-fi mission that happens to be a developer portfolio."**
+
+---
+
+# 01 — OPENING CINEMATIC
+
+Begin with complete darkness.
+
+A distant star field slowly appears.
+
+Tiny particles move through space.
+
+A huge planet becomes visible.
+
+Very far away, a futuristic spaceship appears.
+
+The camera slowly approaches the ship.
+
+Engine lights activate.
+
+The ship turns toward the camera.
+
+Thrusters ignite.
+
+The ship launches toward deep space.
+
+Create cinematic engine glow, particles, motion blur, reflections, and atmospheric distortion.
+
+Then the title appears:
+
+**GOWTHAM**
+
+**GAME DEVELOPER**
+
+**FULL STACK DEVELOPER**
+
+Subheading:
+
+**Building immersive games, intelligent systems, and experiences for the web.**
+
+Do not simply display the text as a standard HTML hero.
+
+Integrate the typography into the 3D environment.
+
+---
+
+# 02 — SPACESHIP AS THE PORTFOLIO GUIDE
+
+Create a signature futuristic spaceship.
+
+The spaceship is the visual identity of the entire portfolio.
+
+The user should repeatedly encounter the ship throughout the website.
+
+The ship can:
+
+* Fly through space
+* Enter planets
+* Travel through portals
+* Dock at stations
+* Enter combat zones
+* Pass through asteroid fields
+* Fly through digital environments
+* Transition between portfolio sections
+
+The spaceship should feel physically believable.
+
+Include:
+
+* Engines
+* Thrusters
+* Cockpit
+* Wings
+* Mechanical details
+* Panels
+* Lights
+* Weapons
+* Energy systems
+* Landing systems
+
+Use realistic materials:
+
+Metal
+Carbon composite
+Glass
+Dark alloy
+Energy surfaces
+
+---
+
+# 03 — INTERACTIVE SPACE CAMERA
+
+The camera should behave like a cinematic game camera.
+
+Implement:
+
+* Third-person spaceship camera
+* Cinematic orbit
+* Chase camera
+* Cockpit camera
+* Fly-by camera
+* Wide establishing shots
+* Zoom
+* Camera shake
+* Dynamic FOV
+* Motion-based perspective
+
+Camera movement should respond to:
+
+* Scroll
+* Mouse
+* Cursor
+* Ship movement
+* Section changes
+* User interaction
+
+Use smooth interpolation and realistic inertia.
+
+---
+
+# 04 — SPACE FLIGHT
+
+Create a continuous space-flight environment.
+
+The spaceship should travel through:
+
+* Star fields
+* Nebula-like environments
+* Asteroid belts
+* Planetary systems
+* Space stations
+* Futuristic structures
+* Digital environments
+
+Scrolling should control progression through the journey.
+
+As the visitor scrolls:
+
+The ship moves forward.
+
+The camera follows.
+
+Environment changes.
+
+Portfolio sections appear as destinations.
+
+The website becomes a journey through space.
+
+---
+
+# 05 — SHOOTING / COMBAT SYSTEM
+
+Add cinematic shooting sequences.
+
+The spaceship should be able to fire futuristic energy weapons.
+
+Include:
+
+* Laser/projectile effects
+* Energy beams
+* Plasma-like shots
+* Muzzle flashes
+* Engine trails
+* Target indicators
+* Hit effects
+* Sparks
+* Particle explosions
+* Small debris
+* Camera shake
+* Impact lighting
+
+Keep combat **cinematic and non-graphic**.
+
+The shooting should be used as an interactive visual effect, not as an actual violent game.
+
+Example:
+
+The user reaches a section.
+
+Enemy drones appear.
+
+The spaceship automatically or interactively targets them.
+
+The user can click or interact to fire.
+
+Enemies break apart into particles.
+
+The destroyed particles transition into the next portfolio section.
+
+---
+
+# 06 — SPACE BATTLE TRANSITION
+
+Create an epic transition:
+
+The spaceship enters an asteroid field.
+
+Enemy drones appear.
+
+Warning indicators activate.
+
+The camera moves behind the ship.
+
+The ship accelerates.
+
+Objects fly past the camera.
+
+The user interacts.
+
+Weapons fire.
+
+Explosions illuminate the environment.
+
+The camera flies through the explosion.
+
+The explosion transforms into the next section.
+
+This should feel like a cinematic game sequence.
+
+---
+
+# 07 — PLANET 01 — ABOUT ME
+
+The spaceship approaches a futuristic planet.
+
+The planet represents:
+
+**ABOUT**
+
+The ship enters the atmosphere.
+
+Clouds move below.
+
+The camera descends toward a futuristic city.
+
+Then reveal the About section.
+
+Display:
+
+GAME DEVELOPER
+FULL STACK DEVELOPER
+
+Short biography.
+
+Experience.
+
+Development philosophy.
+
+Everything should appear inside the environment.
+
+Do NOT use normal rectangular cards everywhere.
+
+Use futuristic holographic displays, floating surfaces, and environmental typography.
+
+---
+
+# 08 — EXPERIENCE AS A SPACE JOURNEY
+
+Turn professional experience into planets or space stations.
+
+Each experience is a destination.
+
+For example:
+
+**MISSION 01**
+**MISSION 02**
+**MISSION 03**
+**MISSION 04**
+
+The spaceship travels between them.
+
+When approaching a destination:
+
+The camera slows.
+
+The destination activates.
+
+Experience information appears.
+
+Then the spaceship launches toward the next mission.
+
+This creates a visual timeline without using a conventional timeline.
+
+---
+
+# 09 — PROJECTS AS PLANETS
+
+Make each major project its own world.
+
+For every project:
+
+Create a unique environment.
+
+Example:
+
+PROJECT 01
+→ futuristic city
+
+PROJECT 02
+→ orbital station
+
+PROJECT 03
+→ alien landscape
+
+PROJECT 04
+→ digital simulation world
+
+PROJECT 05
+→ giant mechanical facility
+
+The spaceship travels to each world.
+
+When the user selects a project:
+
+The camera enters its environment.
+
+Then reveal:
+
+Project name
+
+Problem
+
+Solution
+
+Technology
+
+Features
+
+Results
+
+GitHub
+
+Live Demo
+
+---
+
+# 10 — GAME DEVELOPMENT SECTION
+
+Create a futuristic game-development laboratory.
+
+Show:
+
+* Game engines
+* Gameplay systems
+* Physics
+* AI
+* Level design
+* 3D environments
+* Multiplayer systems
+* Rendering
+* Game mechanics
+
+Represent these visually using interactive 3D systems.
+
+Example:
+
+Physics system
+→ objects responding to forces
+
+AI
+→ interconnected autonomous entities
+
+Game engine
+→ real-time world simulation
+
+Rendering
+→ dynamic lighting system
+
+Do not simply use icon grids.
+
+Make the concepts physically interactive.
+
+---
+
+# 11 — FULL STACK DEVELOPMENT SECTION
+
+Create a giant futuristic digital infrastructure environment.
+
+Represent:
+
+Frontend
+
+Backend
+
+Database
+
+APIs
+
+Authentication
+
+Cloud
+
+DevOps
+
+Real-time systems
+
+Each layer should exist in 3D.
+
+Visual example:
+
+Frontend
+↓
+API
+↓
+Backend
+↓
+Database
+↓
+Cloud Infrastructure
+
+Data should physically move through the architecture.
+
+Show glowing data packets traveling between systems.
+
+Allow the user to hover over components.
+
+On hover:
+
+Highlight connections.
+
+Display technology.
+
+Example technologies:
+
+React
+Next.js
+TypeScript
+Node.js
+Python
+PostgreSQL
+MongoDB
+Redis
+Docker
+AWS
+REST APIs
+WebSockets
+
+Use only technologies that are actually part of the developer's portfolio.
+
+---
+
+# 12 — CODE AS A 3D ENVIRONMENT
+
+Create a massive futuristic code chamber.
+
+Instead of a normal code screenshot:
+
+Code fragments should float in 3D space.
+
+Use:
+
+* Syntax-like visual structures
+* Animated data streams
+* Floating code panels
+* Terminal interfaces
+* Digital particles
+
+The camera should fly through the code environment.
+
+Code fragments can transform into 3D objects.
+
+---
+
+# 13 — SKILLS CONSTELLATION
+
+Create an enormous 3D skill universe.
+
+Skills become stars or nodes.
+
+Groups:
+
+GAME DEVELOPMENT
+
+FULL STACK
+
+FRONTEND
+
+BACKEND
+
+DATABASE
+
+CLOUD
+
+DEVOPS
+
+3D / GRAPHICS
+
+Each skill is connected.
+
+When the user moves the cursor:
+
+The constellation reacts.
+
+When the user selects a skill:
+
+Camera flies toward it.
+
+Connections illuminate.
+
+Information appears.
+
+---
+
+# 14 — CYBERPUNK-FREE SCI-FI HUD
+
+Create a futuristic HUD inspired by advanced spacecraft interfaces.
+
+Use UI elements such as:
+
+* Targeting rings
+* Coordinates
+* Mission status
+* Navigation markers
+* System indicators
+* Minimal data readouts
+* Radar-style elements
+* Energy indicators
+
+But keep the interface readable.
+
+Do NOT cover the screen with HUD graphics.
+
+The 3D environment remains the primary attraction.
+
+---
+
+# 15 — EXTREME PARALLAX
+
+Create deep 3D parallax.
+
+Use multiple spatial layers:
+
+Stars
+→ planets
+→ distant ships
+→ space debris
+→ nebula
+→ architecture
+→ spaceship
+→ holographic UI
+→ typography
+→ foreground objects
+
+Each layer moves independently.
+
+Create enormous perceived depth.
+
+The user should constantly feel distance and scale.
+
+---
+
+# 16 — MOUSE INTERACTION
+
+Mouse movement controls the environment.
+
+Cursor affects:
+
+* Camera
+* Ship rotation
+* Lighting
+* Holographic interfaces
+* Particles
+* Targeting systems
+* Objects
+
+Use realistic inertia.
+
+The ship should slightly react to the user's cursor.
+
+---
+
+# 17 — SPACE PORTFOLIO NAVIGATION
+
+Replace normal navigation with a futuristic mission system.
+
+Navigation:
+
+MISSION CONTROL
+ABOUT
+MISSIONS
+PROJECTS
+GAME DEV
+FULL STACK
+SKILLS
+CONTACT
+
+Clicking a destination should launch a cinematic transition.
+
+Example:
+
+Click PROJECTS.
+
+The camera leaves the current planet.
+
+Space bends.
+
+A portal opens.
+
+The ship travels through it.
+
+Project world appears.
+
+---
+
+# 18 — BOSS-LEVEL VISUAL MOMENTS
+
+Create several unforgettable moments.
+
+### MOMENT 01
+
+Spaceship flies directly toward the camera and narrowly passes it.
+
+### MOMENT 02
+
+Camera enters a giant portal.
+
+### MOMENT 03
+
+Asteroid field surrounds the ship.
+
+### MOMENT 04
+
+Enemy drones appear and the ship fires.
+
+### MOMENT 05
+
+A giant explosion fills the screen.
+
+Particles form the next heading.
+
+### MOMENT 06
+
+The camera exits a planet's atmosphere into space.
+
+### MOMENT 07
+
+A massive futuristic space station appears from behind a planet.
+
+### MOMENT 08
+
+The final portfolio universe is revealed from an orbital perspective.
+
+---
+
+# 19 — FINAL BOSS / SIGNATURE SCENE
+
+Create one enormous final environment.
+
+The spaceship arrives at a massive futuristic orbital structure.
+
+The structure represents the developer's complete technology stack.
+
+The camera slowly moves around it.
+
+Display:
+
+GAME DEVELOPMENT
+
+FULL STACK DEVELOPMENT
+
+3D / REAL-TIME EXPERIENCES
+
+Then reveal:
+
+**BUILDING WORLDS.
+BUILDING SYSTEMS.
+BUILDING EXPERIENCES.**
+
+---
+
+# 20 — CONTACT AS A FINAL MISSION
+
+Do not use an ordinary contact form.
+
+Create:
+
+**FINAL MISSION**
+
+"READY TO BUILD SOMETHING?"
+
+The spaceship docks at a futuristic station.
+
+The contact interface appears as a holographic command panel.
+
+Fields:
+
+NAME
+
+EMAIL
+
+PROJECT
+
+MESSAGE
+
+BUTTON:
+
+**INITIATE CONTACT**
+
+On submission:
+
+The interface confirms:
+
+**TRANSMISSION SENT**
+
+Then the ship launches from the station.
+
+---
+
+# 21 — FINAL CINEMATIC
+
+The camera pulls away.
+
+The spaceship becomes smaller.
+
+The planet becomes visible.
+
+The entire portfolio universe appears.
+
+Multiple project worlds.
+
+Space station.
+
+Asteroid field.
+
+Nebula.
+
+Data structures.
+
+Everything exists in one connected universe.
+
+Then display:
+
+**GOWTHAM SARAVANAKUMAR**
+
+**GAME DEVELOPER × FULL STACK DEVELOPER**
+
+Finally:
+
+**MISSION COMPLETE**
+
+Fade into deep space.
+
+---
+
+# 22 — 3D PHYSICS
+
+Use believable physical behavior.
+
+Implement:
+
+* Momentum
+* Inertia
+* Acceleration
+* Deceleration
+* Particle physics
+* Object collisions
+* Floating debris
+* Ship banking
+* Camera shake
+* Explosion force
+* Environmental movement
+
+The world should feel physically connected.
+
+---
+
+# 23 — CINEMATIC EFFECTS
+
+Use:
+
+* Motion blur
+* Depth of field
+* Bloom
+* Volumetric lighting
+* Lens flare
+* Atmospheric fog
+* Particle effects
+* Screen-space reflections
+* Dynamic shadows
+* Reflections
+* Chromatic effects used sparingly
+
+Everything should remain premium.
+
+Avoid overprocessing the scene.
+
+---
+
+# 24 — SOUND-READY DESIGN
+
+Support optional cinematic audio.
+
+Possible sounds:
+
+* Engine hum
+* Thruster ignition
+* UI activation
+* Weapon effects
+* Portal transition
+* Ambient space
+* Docking
+* Environment movement
+
+Audio must be OFF by default.
+
+Never autoplay sound.
+
+---
+
+# 25 — MOBILE EXPERIENCE
+
+Desktop:
+
+Full AAA experience.
+
+Maximum:
+
+3D
+WebGL
+Particles
+Spaceflight
+Camera movement
+Combat effects
+Parallax
+
+Tablet:
+
+Reduced complexity.
+
+Mobile:
+
+Create a specialized cinematic version.
+
+Maintain:
+
+* Story
+* 3D identity
+* Parallax
+* Motion
+* Typography
+
+Reduce:
+
+* Particle count
+* Post-processing
+* Complex environments
+* Combat intensity
+
+Never allow performance problems to destroy usability.
+
+---
+
+# 26 — PERFORMANCE
+
+Use:
+
+Three.js
+React Three Fiber
+Drei
+GSAP / ScrollTrigger
+WebGL
+Efficient shaders
+Instanced meshes
+LOD
+Compressed textures
+Lazy loading
+Dynamic imports
+Adaptive rendering
+
+Automatically reduce visual complexity on weaker hardware.
+
+Prioritize fast load times and stable frame rates.
+
+Target excellent Core Web Vitals.
+
+---
+
+# 27 — UI / UX
+
+The interface should remain extremely polished despite the extreme visual experience.
+
+Use:
+
+* Clean typography
+* Strong hierarchy
+* High contrast
+* Minimal controls
+* Clear navigation
+* Readable text
+* Consistent spacing
+* Premium futuristic UI
+
+The sci-fi environment creates emotion.
+
+The UI communicates information.
+
+Never sacrifice usability for spectacle.
+
+---
+
+# 28 — ACCESSIBILITY
+
+Provide reduced-motion mode.
+
+When reduced motion is enabled:
+
+Remove or reduce:
+
+* Camera flight
+* Extreme parallax
+* Weapon effects
+* Explosions
+* Rapid transitions
+
+Keep all portfolio content accessible.
+
+Use semantic HTML.
+
+Support keyboard navigation.
+
+Provide visible focus states.
+
+---
+
+# 29 — ORIGINAL SCI-FI WORLD
+
+Create a unique universe specifically for this portfolio.
+
+Do NOT use:
+
+* Star Wars characters
+* Star Wars ships
+* Existing movie locations
+* Existing game characters
+* Existing game logos
+* Existing franchise interfaces
+
+Instead create original:
+
+* Spaceship
+* Planet
+* Space station
+* Weapons
+* HUD
+* Architecture
+* Symbols
+* Typography
+* Visual language
+
+The website should feel inspired by the genre, not copied from a franchise.
+
+---
+
+# 30 — FINAL CREATIVE STATEMENT
+
+The portfolio should communicate:
+
+**I don't just build websites.**
+
+**I build systems.**
+
+**I build games.**
+
+**I build worlds.**
+
+The visitor should begin in space, board the experience, travel through my career, explore my projects, see my technical capabilities, interact with my skills, and finish at the final mission.
+
+The entire website should feel like a single continuous AAA sci-fi experience.
+
+Do not create:
+
+"Portfolio + 3D effects."
+
+Create:
+
+**"A 3D sci-fi game world that happens to be my portfolio."**
+
+The final experience must be cinematic, interactive, futuristic, technically impressive, immersive, and unforgettable.
